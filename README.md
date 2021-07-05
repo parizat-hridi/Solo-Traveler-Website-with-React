@@ -1,13 +1,14 @@
-# Todo App
+# Solo Traveler Website 
 This is a simple To-Do list app done with [React](https://reactjs.org/). All tasks are saved into browser's local storage only.
 
 ## Visual Representation of my project:
 
-![todo1](https://user-images.githubusercontent.com/43074604/124005054-78ff9800-d9fa-11eb-8769-3ad3638d7b89.PNG)
+![solo](https://user-images.githubusercontent.com/43074604/124455009-eae53200-ddaa-11eb-97cf-957165ae0d2d.PNG)
 
-![todo2](https://user-images.githubusercontent.com/43074604/124005060-7a30c500-d9fa-11eb-97a9-68b4ca4eba14.PNG)
+![2](https://user-images.githubusercontent.com/43074604/124455264-2bdd4680-ddab-11eb-8712-f3bb8bbaa9a5.PNG)
 
-![todolist](https://user-images.githubusercontent.com/43074604/124200028-273c3800-daf6-11eb-9ed9-ddd1cf635859.PNG)
+![3](https://user-images.githubusercontent.com/43074604/124455269-2e3fa080-ddab-11eb-9d94-7d7a43faa7cb.PNG)
+
 
 ## About React JS
 ![react](https://user-images.githubusercontent.com/43074604/124001629-a77b7400-d9f6-11eb-9ba7-6fd4320a961c.png)
