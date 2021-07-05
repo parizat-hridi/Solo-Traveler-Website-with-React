@@ -1,5 +1,5 @@
 # Solo Traveler Website 
-This is a simple [Solo_Traveler_Website](https://6jbps.csb.app/home) done with [React](https://reactjs.org/). All tasks are saved into browser's local storage only.
+This is a simple [Solo Traveler Website](https://6jbps.csb.app/home) done with [React](https://reactjs.org/). All tasks are saved into browser's local storage only.
 
 ## Visual Representation of my project:
 
