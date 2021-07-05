@@ -1,5 +1,5 @@
 # Solo Traveler Website 
-This is a simple To-Do list app done with [React](https://reactjs.org/). All tasks are saved into browser's local storage only.
+This is a Solo Traveler Website done with [React](https://reactjs.org/). All tasks are saved into browser's local storage only.
 
 ## Visual Representation of my project:
 
